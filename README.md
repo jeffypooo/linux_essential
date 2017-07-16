@@ -7,6 +7,6 @@ A collection of shell scripts I've written over the years to accomplish common t
     These scripts will automatically detect IDE installations and launch them in the background with silenced output. 
     No more wasted terminal windows!
     
-### Coming Soon
+### Coming Soon (when I find them)
 1. Provisioning scripts for CMake/C++, Android, and Node.js development machines 
 
